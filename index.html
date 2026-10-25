@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reubicación de gasolineras en Seattle</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#f2f5f8;color:#233247;font:16px/1.6 Arial,sans-serif}
+header{background:#173650;color:white;padding:40px 6%}
+h1{margin:0 0 12px;font-size:clamp(26px,4vw,40px);line-height:1.2}
+header p{max-width:850px}
+main{max-width:1250px;margin:auto;padding:24px}
+nav{display:flex;gap:12px;flex-wrap:wrap;margin:24px 0}
+a{color:#175b91}
+nav a{padding:10px 18px;background:white;border:1px solid #d5dfe8;
+border-radius:7px;text-decoration:none}
+section{background:white;padding:22px;border-radius:10px;margin-bottom:22px}
+iframe{width:100%;height:70vh;min-height:420px;border:1px solid #dae2ea;border-radius:6px}
+img{width:100%;height:auto}
+footer{padding:12px 0;color:#596779;font-size:14px}
+</style>
+</head>
+<body>
+<header>
+<h1>Reubicación de gasolineras en Seattle</h1>
+<p>Evaluación espacial de la separación entre gasolineras y centros educativos,
+considerando una distancia mínima de 200 metros y ubicaciones alternativas
+sobre la red vial seleccionada.</p>
+<p>José Bautista Janampa · Introducción a Datos Espaciales</p>
+</header>
+<main>
+<nav>
+<a href="https://colab.research.google.com/github/Jose-Bautista-gnss/Evaluacion_Individual_2/blob/main/Tarea_Individual_2_Seattle.ipynb" target="_blank" rel="noopener">Abrir cuaderno en Google Colab</a>
+<a href="https://github.com/Jose-Bautista-gnss/Evaluacion_Individual_2" target="_blank" rel="noopener">Repositorio y datos</a>
+<a href="resultados_v3/resumen.csv" download>Descargar resumen</a>
+<a href="resultados_v3/propuestas_reubicacion.csv" download>Descargar propuestas</a>
+</nav>
+<section>
+<h2>Mapa interactivo</h2>
+<p>Verde: estaciones que cumplen. Rojo: estaciones que requieren traslado.
+Azul: ubicaciones propuestas. Las capas pueden activarse desde el mapa.</p>
+<iframe src="resultados_v3/mapa_reubicacion_seattle.html"
+title="Mapa de gasolineras y colegios en Seattle" loading="lazy"></iframe>
+<p><a href="resultados_v3/mapa_reubicacion_seattle.html"
+target="_blank" rel="noopener">Abrir mapa en pantalla completa</a></p>
+</section>
+<section>
+<h2>Mapa de resultados</h2>
+<img src="resultados_v3/mapa_reubicacion_seattle.png"
+alt="Clasificación de gasolineras y propuestas de reubicación en Seattle" loading="lazy">
+</section>
+<footer>
+Fuentes: zonas censales proporcionadas para el ejercicio y
+© OpenStreetMap contributors.
+Las propuestas corresponden a un análisis académico de restricciones espaciales.
+</footer>
+</main>
+</body>
+</html>

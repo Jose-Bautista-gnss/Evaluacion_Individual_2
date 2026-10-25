@@ -1,0 +1,33 @@
+{
+  "ejecucion_utc": "2026-10-25T00:14:30.549424+00:00",
+  "crs": "EPSG:32610",
+  "distancia_colegios_m": 200.0,
+  "radio_propuesta_m": 10.0,
+  "separacion_auxiliar_m": 100.0,
+  "paso_candidatos_m": 25.0,
+  "fuentes": [
+    {
+      "capa": "zonas_censales",
+      "origen": "GitHub propio",
+      "registros": 177
+    },
+    {
+      "capa": "colegios",
+      "origen": "OpenStreetMap — XML",
+      "registros": 238
+    },
+    {
+      "capa": "gasolineras",
+      "origen": "OpenStreetMap — XML",
+      "registros": 145
+    },
+    {
+      "capa": "vias",
+      "origen": "OpenStreetMap — XML",
+      "registros": 21717
+    }
+  ],
+  "gasolineras": 125,
+  "requieren_traslado": 26,
+  "propuestas_verificadas": 26
+}

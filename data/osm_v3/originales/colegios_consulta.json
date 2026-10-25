@@ -1,0 +1,7 @@
+{
+  "servidor": "https://overpass-api.de/api/interpreter",
+  "consulta_utc": "2026-10-25T00:16:21.788764+00:00",
+  "sha256_consulta": "8eb717f243b7019253953520eaf398161100c48a7ecb8b3767f5c5deda9562a1",
+  "consulta": "[out:xml][timeout:45];nwr[\"amenity\"=\"school\"](47.4936322,-122.4387833,47.7360705,-122.2330887);(._;>>;);out meta;",
+  "fuente": "OpenStreetMap contributors — ODbL"
+}

@@ -1,0 +1,7 @@
+{
+  "servidor": "https://overpass-api.de/api/interpreter",
+  "consulta_utc": "2026-10-25T00:19:03.134625+00:00",
+  "sha256_consulta": "3540194b7083c71599be88fac427999cf54a9e05fbf0a1015998979e2fd02188",
+  "consulta": "[out:xml][timeout:45];way[\"highway\"~\"^(primary|residential|secondary|tertiary|trunk|unclassified)$\"][\"area\"!=\"yes\"][\"access\"!~\"^(private|no)$\"][\"motor_vehicle\"!~\"^(private|no)$\"][\"motorcar\"!~\"^(private|no)$\"](47.4955306,-122.4359731,47.7341724,-122.2358904);(._;>>;);out meta;",
+  "fuente": "OpenStreetMap contributors — ODbL"
+}

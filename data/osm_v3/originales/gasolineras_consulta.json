@@ -1,0 +1,7 @@
+{
+  "servidor": "https://overpass.private.coffee/api/interpreter",
+  "consulta_utc": "2026-10-25T00:17:27.119518+00:00",
+  "sha256_consulta": "7f1f6bbbc3c9d57e712d80d57945b51f39bd19fc9ceaf261a25d6f577dcecb67",
+  "consulta": "[out:xml][timeout:45];nwr[\"amenity\"=\"fuel\"](47.4955306,-122.4359731,47.7341724,-122.2358904);(._;>>;);out meta;",
+  "fuente": "OpenStreetMap contributors — ODbL"
+}
