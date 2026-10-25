@@ -1,56 +1,56 @@
 ﻿id_osm,nombre,distancia_colegio_m,colegio_cercano,estado
 node_457773031,Magnolia Chevron,266.6233001384976,Catharine Blaine K-8 School,Cumple
-node_631386821,76,75.0722158079122,St. Nicholas School,Reubicar
+node_631386821,76,75.07221580744341,St. Nicholas School,Reubicar
 node_771801423,Chevron,778.8519418597347,Broadview-Thomson K-8 School,Cumple
 node_1197964284,Shell,179.2197224715394,Career Link School,Reubicar
 node_1489962206,7-Eleven,260.5475829727914,Neo Art School,Cumple
-node_2266423106,7-Eleven,178.39112527656192,Adams Elementary School,Reubicar
-node_2995124967,Dr. Dan's Biodiesel,628.9333380213073,Pacific Crest,Cumple
+node_2266423106,7-Eleven,178.3911252765547,Adams Elementary School,Reubicar
+node_2995124967,Dr. Dan's Biodiesel,628.9333380205269,Pacific Crest,Cumple
 node_5283345524,76,654.4162409895825,Interagency Alder Academy,Cumple
 node_6329916588,Mobil,342.04703032524435,Whitman Middle School,Cumple
 node_8018977320,76,373.64190667806594,Villa Academy,Cumple
 node_10856272251,Chevron,161.04718833599406,Aki Kurose Middle School,Reubicar
 node_11648398007,Gas & Smoke Depot,199.0459469018819,Learning Way School,Reubicar
-node_13446953241,76,657.3543720201471,James Baldwin Elementary School,Cumple
+node_13446953241,76,657.3543720192426,James Baldwin Elementary School,Cumple
 node_13688993817,Chevron,479.64467552895064,Interagency U District Youth Center,Cumple
 way_34618474,Arco,439.2943654128,Daniel Bagley Elementary School,Cumple
 way_34618510,76,354.4332124986857,Daniel Bagley Elementary School,Cumple
-way_35965166,Arco,187.18326531305033,Epic Life Academy,Reubicar
+way_35965166,Arco,187.18326531303848,Epic Life Academy,Reubicar
 way_92190405,76,574.8911475646021,Ingraham High School,Cumple
-way_136051471,Safeway,139.6286629643554,Lafayette Elementary School,Reubicar
-way_136571987,Safeway Fuel Station,273.68443388313705,Rainier Beach High School,Cumple
-way_137276411,Safeway Fuel Station,849.5918193368223,Ballard High School,Cumple
-way_137276976,Safeway,514.3057506196496,Whittier Elementary School,Cumple
+way_136051471,Safeway,139.62866296483108,Lafayette Elementary School,Reubicar
+way_136571987,Safeway Fuel Station,273.6844338822057,Rainier Beach High School,Cumple
+way_137276411,Safeway Fuel Station,849.591819335891,Ballard High School,Cumple
+way_137276976,Safeway,514.305750620528,Whittier Elementary School,Cumple
 way_185485114,Arco,123.95439319397241,Nova High School,Reubicar
 way_203702439,76,334.4883352826575,Aki Kurose Middle School,Cumple
-way_204094133,76,211.09915219099432,Impact | Salish Sea Elementary,Cumple
+way_204094133,76,211.09915219028557,Impact | Salish Sea Elementary,Cumple
 way_206623553,76,331.5230078285031,Seattle Academy,Cumple
 way_213295305,Shell,531.6302390348111,Pacific Crest,Cumple
-way_217361062,Chevron,588.3092890812176,Ballard High School,Cumple
+way_217361062,Chevron,588.3092890802862,Ballard High School,Cumple
 way_217372953,Shell,231.95313355037538,Ballard High School,Cumple
-way_217604479,Shell,479.49140581096947,Gage Academy of Art,Cumple
+way_217604479,Shell,479.4914058114195,Gage Academy of Art,Cumple
 way_218763774,Shell,560.8477097210358,Greenwood Elementary School,Cumple
 way_218770554,Chevron,189.9673229033592,Whitman Middle School,Reubicar
 way_219481523,Arco,964.3210451151195,Broadview-Thomson K-8 School,Cumple
-way_220820926,Chevron,112.05191207951172,Concordia Lutheran School,Reubicar
+way_220820926,Chevron,112.05191207943491,Concordia Lutheran School,Reubicar
 way_220912223,76,705.8612793775584,Bryant Elementary School,Cumple
-way_220966657,Shell,23.258460044151278,Northwest Montessori School,Reubicar
-way_221200341,Chevron,189.97756662429313,Saint Catherine of Siena Parish School,Reubicar
+way_220966657,Shell,23.2584600445347,Northwest Montessori School,Reubicar
+way_221200341,Chevron,189.97756662434733,Saint Catherine of Siena Parish School,Reubicar
 way_221201706,Shell,562.1020924746839,Wedgwood Elementary School,Cumple
 way_221295837,Shell,343.89487281817264,Jane Addams Middle School,Cumple
 way_221296278,Chevron,420.40607023026683,Jane Addams Middle School,Cumple
 way_221419549,Shell,271.76883291402413,Little Laurels,Cumple
 way_221906464,Shell,726.0702071398426,Lawton Elementary School,Cumple
-way_221922091,Magnolia 76,416.1720718579052,Lawton Elementary School,Cumple
-way_222420001,Sin nombre,598.6038126260967,West Woodland Elementary School,Cumple
-way_222583287,Shell,460.2488887991238,Daniel Bagley Elementary School,Cumple
+way_221922091,Magnolia 76,416.17207185789636,Lawton Elementary School,Cumple
+way_222420001,Sin nombre,598.6038126258993,West Woodland Elementary School,Cumple
+way_222583287,Shell,460.2488887981935,Daniel Bagley Elementary School,Cumple
 way_222583810,Shell,622.4339807451629,Epic Life Academy,Cumple
 way_222834336,Shell,381.8088587927912,Interagency U District Youth Center,Cumple
 way_223316977,Shell,606.8243629642473,Cleveland High School,Cumple
 way_223482711,Sin nombre,785.6285780620778,Interagency U District Youth Center,Cumple
 way_224023455,Chevron,590.947816137941,Concord Elementary School,Cumple
 way_224047008,Chevron,358.14262745706935,Greenwood Elementary School,Cumple
-way_224051019,Shell,431.842005029316,Viewlands Elementary School,Cumple
+way_224051019,Shell,431.8420050302383,Viewlands Elementary School,Cumple
 way_224066374,Shell,379.6255516450423,Bush School,Cumple
 way_224144953,Shell,334.3425803901164,Gatewood Elementary School,Cumple
 way_224437484,Chevron,844.026565091065,Coe Elementary School,Cumple
@@ -59,68 +59,68 @@ way_226137785,Costco Gasoline,819.203608395256,Maple Elementary School,Cumple
 way_226181099,Pacific Pride,739.2044792350459,Career Link School,Cumple
 way_226181102,Gull,717.6107599994311,Career Link School,Cumple
 way_226194530,Shell,171.8320334035583,Career Link School,Reubicar
-way_226306359,Shell,210.0150912330885,Puget Sound Community School,Cumple
-way_228302598,Lucky One,336.8287704248899,Martin Luther King Jr Elementary School,Cumple
+way_226306359,Shell,210.0150912327614,Puget Sound Community School,Cumple
+way_228302598,Lucky One,336.82877042488116,Martin Luther King Jr Elementary School,Cumple
 way_228303473,Shell,520.7829685994594,Martin Luther King Jr Elementary School,Cumple
-way_228304958,Valero,633.1714159600244,Martin Luther King Jr Elementary School,Cumple
-way_228702645,Shell,368.70915548412216,Beacon Hill International Elementary School,Cumple
-way_228702651,76,358.3665667889872,Beacon Hill International Elementary School,Cumple
+way_228304958,Valero,633.1714159606785,Martin Luther King Jr Elementary School,Cumple
+way_228702645,Shell,368.709155485036,Beacon Hill International Elementary School,Cumple
+way_228702651,76,358.3665667899136,Beacon Hill International Elementary School,Cumple
 way_228850154,Shell,36.646313947230354,Morningside Academy,Reubicar
 way_228858849,Shell,362.6226508113395,Seattle Academy,Cumple
 way_228885734,Chevron,153.29305063252383,Interagency Alder Academy,Reubicar
-way_229910917,7-Eleven,124.8132222389363,Morningside Academy,Reubicar
-way_231265918,7-Eleven,403.06566952684847,West Seattle Montessori School,Cumple
-way_231267091,Shell,94.49303895646389,West Seattle Montessori School,Reubicar
-way_231287971,Chevron,1386.6669532513133,Maple Elementary School,Cumple
+way_229910917,7-Eleven,124.81322223845385,Morningside Academy,Reubicar
+way_231265918,7-Eleven,403.06566952748284,West Seattle Montessori School,Cumple
+way_231267091,Shell,94.49303895688165,West Seattle Montessori School,Reubicar
+way_231287971,Chevron,1386.666953251843,Maple Elementary School,Cumple
 way_231288114,Chevron,1023.9202552563628,Cleveland High School,Cumple
 way_231288141,Shell,909.4352300731139,Cleveland High School,Cumple
 way_231289070,Shell,1417.8425350568634,Cleveland High School,Cumple
 way_231344320,Sin nombre,220.35543055639297,Tilden School,Cumple
 way_231344375,7-Eleven,282.6503666980186,Westside School,Cumple
-way_231714827,76,288.5420667011374,The Center School,Cumple
+way_231714827,76,288.54206669942164,The Center School,Cumple
 way_231753777,Shell,775.0333522123531,Saint Anne School,Cumple
 way_231753780,Shell,459.14283829960743,Pacific Northwest Ballet School,Cumple
 way_231761483,Shell,194.76475544929693,Downtown School,Reubicar
 way_231984828,Shell,267.3645709843198,Louisa Boren STEM K-8,Cumple
 way_234836866,Arco,564.5440484919683,Saint Edward Parish School,Cumple
 way_234837719,76,135.5272418911844,Rainier Valley Leadership Academy,Reubicar
-way_234928749,76,306.69822789222155,Kapka Cooperative School,Cumple
+way_234928749,76,306.6982278929478,Kapka Cooperative School,Cumple
 way_234928763,76,293.1035995643821,Kapka Cooperative School,Cumple
 way_234928776,Shell,276.43774416017504,Kapka Cooperative School,Cumple
 way_234928812,Shell,276.1152810956075,Kapka Cooperative School,Cumple
-way_234931857,7-Eleven,365.2627663278682,Hamilton International Middle School,Cumple
+way_234931857,7-Eleven,365.26276632835345,Hamilton International Middle School,Cumple
 way_235230448,7-Eleven,276.95403220562395,Saint Matthew School,Cumple
-way_235372831,76,223.14422978794062,Fairview Christian School,Cumple
+way_235372831,76,223.14422978887185,Fairview Christian School,Cumple
 way_236026948,Spirit,441.64935535921984,Our Lady of the Lake School,Cumple
-way_236497835,Chevron,100.32488997441867,Lafayette Elementary School,Reubicar
+way_236497835,Chevron,100.32488997590809,Lafayette Elementary School,Reubicar
 way_236741292,7-Eleven,368.4346680514835,Summit Public Schools - Atlas,Cumple
-way_296726070,Shell,210.69185798968516,John Marshall School,Cumple
+way_296726070,Shell,210.69185799013832,John Marshall School,Cumple
 way_299953993,Shell,214.23220957821385,West Woodland Elementary School,Cumple
 way_305215274,Arco,313.59807999531415,Career Link School,Cumple
-way_327728833,Wallingford Shell,369.81621210365205,The Meridian School,Cumple
+way_327728833,Wallingford Shell,369.8162121031903,The Meridian School,Cumple
 way_333362229,Shell,0.8247597617264082,La Escuelita Bilingual School,Reubicar
-way_363032043,ARCO,984.2163818248572,Lawton Elementary School,Cumple
+way_363032043,ARCO,984.2163818256101,Lawton Elementary School,Cumple
 way_363032044,ARCO,989.6965378001465,Lawton Elementary School,Cumple
-way_412291613,Arco,235.3997315253292,Sanislo Elementary School,Cumple
+way_412291613,Arco,235.39973152607217,Sanislo Elementary School,Cumple
 way_412291615,Sin nombre,128.19339773717883,Sanislo Elementary School,Reubicar
-way_412303671,Arco,477.8190749258278,Hazel Wolf K-8 STEM School,Cumple
-way_418867605,Chevron,191.60381392877,Lafayette Elementary School,Reubicar
-way_435075655,Shell,97.05348985292227,Lincoln High School,Reubicar
+way_412303671,Arco,477.819074924952,Hazel Wolf K-8 STEM School,Cumple
+way_418867605,Chevron,191.6038139295997,Lafayette Elementary School,Reubicar
+way_435075655,Shell,97.05348985322239,Lincoln High School,Reubicar
 way_441569615,76,393.02917367063066,Gatewood Elementary School,Cumple
-way_475191450,Chevron,91.23343086169106,Roxhill Elementary,Reubicar
-way_475405299,Sin nombre,393.92072860122136,Calvary Luthern School,Cumple
+way_475191450,Chevron,91.2334308612243,Roxhill Elementary,Reubicar
+way_475405299,Sin nombre,393.92072860029987,Calvary Luthern School,Cumple
 way_484789032,76,1113.758316544493,Coe Elementary School,Cumple
 way_486632650,University Chevron,461.7279376569459,Interagency U District Youth Center,Cumple
 way_519373470,Shell,320.64986618621623,Cascade Parent Partnership Program,Cumple
-way_550435809,Shell,594.0228425389573,James Baldwin Elementary School,Cumple
-way_600101673,QFC,542.9218933123832,Shoreline Christian School,Cumple
-way_600101678,Chevron,215.15394265378572,Saint Matthew School,Cumple
+way_550435809,Shell,594.0228425398692,James Baldwin Elementary School,Cumple
+way_600101673,QFC,542.9218933123489,Shoreline Christian School,Cumple
+way_600101678,Chevron,215.15394265472412,Saint Matthew School,Cumple
 way_600101691,76,378.18585181334197,Seattle Area German School,Cumple
-way_600101760,Chevron,608.7218994564832,Eckstein Middle School,Cumple
+way_600101760,Chevron,608.7218994572171,Eckstein Middle School,Cumple
 way_603557992,Safeway Fuel Station,368.20606288360347,John Muir Elementary School,Cumple
-way_616232144,Shell,370.67271404761834,Giddens School,Cumple
-way_684913608,Gasco & South Seattle Market,316.5922291365212,West Seattle Elementary School,Cumple
+way_616232144,Shell,370.67271404753023,Giddens School,Cumple
+way_684913608,Gasco & South Seattle Market,316.59222913649114,West Seattle Elementary School,Cumple
 way_727276570,Shree's,1110.9354340543125,Highland Park Elementary School,Cumple
-way_940949039,7-Eleven,665.1104893627546,Seattle Waldorf High School,Cumple
-way_1106778201,Sin nombre,483.9169363103665,Kimball Elementary School,Cumple
-way_1460417274,Arco,125.71546416275174,Franklin High School,Reubicar
+way_940949039,7-Eleven,665.1104893646062,Seattle Waldorf High School,Cumple
+way_1106778201,Sin nombre,483.9169363100066,Kimball Elementary School,Cumple
+way_1460417274,Arco,125.71546416230306,Franklin High School,Reubicar
